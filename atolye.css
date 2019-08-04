@@ -1,4 +1,8 @@
 body {background-color:pink;
     color: white;
 }
-header {text-align: center;}
+header {text-align: center;
+}
+#home-definition { 
+    color: white;
+}
