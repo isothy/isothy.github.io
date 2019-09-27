@@ -1,5 +1,6 @@
 var today = new Date();
 var hourNow = today.getHours();
+console.log(hourNow);
 var greeting;
 
 if (hourNow > 18) {
